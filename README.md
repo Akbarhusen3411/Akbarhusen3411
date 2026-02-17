@@ -93,8 +93,11 @@ Detail-oriented Software Engineer with hands-on experience in **Java, Spring Boo
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akbarhusen3411&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbarhusen3411&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Akbarhusen3411&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akbarhusen3411&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akbarhusen3411&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
